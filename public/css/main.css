@@ -1,0 +1,22 @@
+/* o que é uma regra css */
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    font-size: 62.5%;
+}
+
+body{
+    color: white;
+    height: 100vh;
+    background: #EBF2F5;
+}
+
+body, input, button, textarea {
+    font: 400 1.8rem/1 'Nunito', sans-serif;
+}
+/* em = busca no elemento anterior (pai) / rem = busca no html*/
