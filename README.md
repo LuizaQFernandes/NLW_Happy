@@ -23,6 +23,6 @@ Images by Unsplash and map by leaflet :camera: :deciduous_tree:
 
 ![image](https://user-images.githubusercontent.com/62905577/113766470-d46c0380-96f3-11eb-9be8-41e1ad0e0291.png)
 
-# Getitng Started
+# Getting Started
 
 In the project directory, you can run: npm start
